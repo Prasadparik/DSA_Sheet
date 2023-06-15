@@ -1,0 +1,12 @@
+.banner {
+  border-radius: 1rem;
+}
+a {
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.level {
+  border-radius: 0.5rem !important;
+  padding: 0.5rem;
+}

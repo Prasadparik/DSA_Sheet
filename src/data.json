@@ -1,0 +1,270 @@
+{
+  "DataSheet": [
+    {
+      "no": 1,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Search an Element in an array",
+      "url": "https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 2,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Check if two arrays are equal or not",
+      "url": "https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 3,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Missing element of AP",
+      "url": "https://practice.geeksforgeeks.org/problems/missing-element-of-ap2228/1?page=2&difficulty[]=0&status[]=solved&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 4,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Cyclically rotate an array by one",
+      "url": "https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 5,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Find minimum and maximum element in an array",
+      "url": "https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 6,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Binary Array Sorting",
+      "url": "https://practice.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1?page=1&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 7,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Move all negative elements to end",
+      "url": "https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 8,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Missing number",
+      "url": "https://practice.geeksforgeeks.org/problems/missing-number4257/1?page=2&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 9,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Search Element in Matrix",
+      "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+    },
+    {
+      "no": 10,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Find the fine",
+      "url": "https://practice.geeksforgeeks.org/problems/find-the-fine4353/1?page=3&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 11,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Greater on right side",
+      "url": "https://practice.geeksforgeeks.org/problems/greater-on-right-side4305/1?page=3&difficulty[]=-1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 12,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Remove duplicate elements from sorted Array",
+      "url": "https://practice.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 13,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Subarray with given sum",
+      "url": "https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 14,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Sort an array of 0s, 1s and 2s",
+      "url": "https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 15,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Equilibrium Point",
+      "url": "https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 16,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Peak element",
+      "url": "https://practice.geeksforgeeks.org/problems/peak-element/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 17,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Find Transition Point",
+      "url": "https://practice.geeksforgeeks.org/problems/find-transition-point-1587115620/1?page=1&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 18,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Alternate positive and negative numbers",
+      "url": "https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 19,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Union of Two Sorted Arrays",
+      "url": "https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 20,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Three way partitioning",
+      "url": "https://practice.geeksforgeeks.org/problems/three-way-partitioning/1?page=2&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 21,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Frogs and Jumps",
+      "url": "https://practice.geeksforgeeks.org/problems/5551749efa02ae36b6fdb3034a7810e84bd4c1a4/1?page=4&difficulty[]=0&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 22,
+      "tag": "Array",
+      "level": "Easy",
+      "questionTitle": "Min Subsets with Consecutive Numbers",
+      "url": "https://practice.geeksforgeeks.org/problems/min-subsets-with-consecutive-numbers0601/1?page=3&difficulty[]=0&status[]=solved&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 23,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Find Missing And Repeating",
+      "url": "https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?page=1&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 24,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Rearrange Array Alternately",
+      "url": "https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=1&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 25,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Pythagorean Triplet",
+      "url": "https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1?page=2&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 26,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Rearrange an array with O(1) extra space",
+      "url": "https://practice.geeksforgeeks.org/problems/rearrange-an-array-with-o1-extra-space3142/1?page=2&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 27,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Count triplets with sum smaller than X",
+      "url": "https://practice.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1?page=2&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 28,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Boolean Matrix",
+      "url": "https://practice.geeksforgeeks.org/problems/boolean-matrix-problem-1587115620/1?page=3&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 29,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Row with max 1s",
+      "url": "https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1"
+    },
+    {
+      "no": 30,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Container With Most Water",
+      "url": "https://practice.geeksforgeeks.org/problems/container-with-most-water0535/1?page=4&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 31,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Maximum Triplet product",
+      "url": "https://practice.geeksforgeeks.org/problems/d54c71dc974b7db3a200eb63f34e3d1cba955d86/1?page=4&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 32,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Coins of Geekland",
+      "url": "https://practice.geeksforgeeks.org/problems/257a9e27fb3e58255622c8dcb06e0919cc1c6c11/1?page=7&difficulty[]=1&category[]=Arrays&sortBy=submissions"
+    },
+    {
+      "no": 33,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Next Permutation",
+      "url": "https://leetcode.com/problems/next-permutation"
+    },
+    {
+      "no": 34,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Rotate Image",
+      "url": "https://leetcode.com/problems/rotate-image"
+    },
+    {
+      "no": 35,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Count Primes",
+      "url": "https://leetcode.com/problems/count-primes"
+    },
+    {
+      "no": 36,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Watering Plants",
+      "url": "https://leetcode.com/problems/watering-plants"
+    },
+    {
+      "no": 37,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Arithmetic Subarrays",
+      "url": "https://leetcode.com/problems/arithmetic-subarrays"
+    },
+    {
+      "no": 38,
+      "tag": "Array",
+      "level": "Medium",
+      "questionTitle": "Majority Element",
+      "url": "https://www.geeksforgeeks.org/majority-element/"
+    }
+  ]
+}
